@@ -1,1 +1,1 @@
-# tritonmascot_designco
+# Triton Mascot Landing Page
