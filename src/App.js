@@ -8,15 +8,15 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <div class="body-container">
+      <div className="body-container">
         <div className='buttons-section'>
           <NavLink>About Me</NavLink>
-          <NavLink>About Me</NavLink>
-          <NavLink>About Me</NavLink>
-          <NavLink>About Me</NavLink>
+          <NavLink>Skills</NavLink>
+          <NavLink>Photos</NavLink>
+          <NavLink>Social Media</NavLink>
         </div>
-        <div class="form">
-          <p>TESTING!</p>
+        <div className="form">
+          <p>The Triton appreciates you for visiting his page!</p>
         </div>
         <img src={intro_img} alt="king triton" className='intro_img'/>
       </div>
