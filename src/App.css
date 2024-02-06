@@ -220,6 +220,7 @@ button {
 @media (max-width: 576px) {
   button {
     font-size: 15px;
+    border: 1.5px solid black;
   }
 
   .buttons-section {

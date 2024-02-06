@@ -92,7 +92,7 @@ function App() {
         </div>
 
         <div className="form">
-          <form class="input-form">
+          <form className="input-form">
             <h1>Send a Letter</h1>
             <div className="input">
               <label for="say">What is your name?</label>
@@ -107,7 +107,7 @@ function App() {
               <textarea name="to" id="to" rows="5" cols="33" placeholder="Hello Triton..." />
             </div>
             <div>
-              <button>Send my greetings</button>
+              <button className='glow-on-hover'>Send my greetings</button>
             </div>
           </form>
           <p>The Triton appreciates you for visiting his page!</p>
