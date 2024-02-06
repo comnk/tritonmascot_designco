@@ -7,7 +7,7 @@ function Footer() {
     <div className='footer'>
       <footer>
         <p>Not affiliated with UC San Diego</p>
-        <p>Copyright © Upbeat Code</p>
+        <p>Copyright © Victor Hsiao 2024</p>
       </footer>
     </div>
   )
