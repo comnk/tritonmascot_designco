@@ -13,7 +13,7 @@ button {
   font-size: 20px;
   font-weight: bold;
   color: white;
-  background-color: #0284c7;
+  background-color: #1e3a8a;
   width: 100%;
   cursor: pointer;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
@@ -80,7 +80,7 @@ button {
 /* GLOBAL MODAL STYLING */
 
 .modal-content {
-  background-color: #0284c7;
+  background-color: #1e3a8a;
   color: white;
   padding: 12px 15px;
 }
@@ -102,7 +102,7 @@ button {
     border: none;
     outline: none;
     color: #fff;
-    background: #0284c7;
+    background: #1e3a8a;
     cursor: pointer;
     position: relative;
     z-index: 0;
@@ -127,7 +127,7 @@ button {
   }
   
   .glow-on-hover:active {
-    color: #0284c7;
+    color: #1e3a8a;
   }
   
   .glow-on-hover:active:after {
@@ -144,7 +144,7 @@ button {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #0284c7;
+    background: #1e3a8a;
     left: 0;
     top: 0;
     border-radius: 10px;
