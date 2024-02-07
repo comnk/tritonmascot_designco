@@ -96,15 +96,15 @@ function App() {
             <h1>Send a Letter</h1>
             <div className="input">
               <label for="say">What is your name?</label>
-              <input name="name" id="name" placeholder="John Doe" />
+              <input name="name" id="name" placeholder="John Doe" required/>
             </div>
             <div className="input">
               <label for="email">What is your email?</label>
-              <input name="email" id="email" placeholder="johndoe@gmail.com" />
+              <input name="email" id="email" placeholder="johndoe@gmail.com" required/>
             </div>
             <div className="input">
               <label for="to">What do you want to say to the Triton?</label>
-              <textarea name="to" id="to" rows="5" cols="33" placeholder="Hello Triton..." />
+              <textarea name="to" id="to" rows="5" cols="33" placeholder="Hello Triton..." required/>
             </div>
             <div>
               <button className='glow-on-hover'>Send my greetings</button>
